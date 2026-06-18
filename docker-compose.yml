@@ -1,0 +1,27 @@
+﻿version: '3.4'
+
+services:
+  pharmacy-db:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=Your_Strong_Password_123
+    ports:
+      - "1433:1433"
+    volumes:
+      - pharmacy_data:/var/opt/mssql
+
+  pharmacy_api:
+    image: pharmacy_api_image
+    build:
+      context: .
+      dockerfile: PharmacyBillingService/Dockerfile
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "5000:8080"
+    depends_on:
+      - pharmacy-db
+
+volumes:
+  pharmacy_data:

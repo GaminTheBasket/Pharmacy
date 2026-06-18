@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\season 4 ver 1\\monthu3p2\\PharmacyBilling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E02322-7DBF-4B1E-95DB-1F09690D1E29}|PharmacyBillingService\\PharmacyBillingService.csproj|d:\\season 4 ver 1\\monthu3p2\\pharmacybilling\\pharmacybillingservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1E02322-7DBF-4B1E-95DB-1F09690D1E29}|PharmacyBillingService\\PharmacyBillingService.csproj|solutionrelative:pharmacybillingservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E02322-7DBF-4B1E-95DB-1F09690D1E29}|PharmacyBillingService\\PharmacyBillingService.csproj|d:\\season 4 ver 1\\monthu3p2\\pharmacybilling\\pharmacybillingservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1E02322-7DBF-4B1E-95DB-1F09690D1E29}|PharmacyBillingService\\PharmacyBillingService.csproj|solutionrelative:pharmacybillingservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E02322-7DBF-4B1E-95DB-1F09690D1E29}|PharmacyBillingService\\PharmacyBillingService.csproj|d:\\season 4 ver 1\\monthu3p2\\pharmacybilling\\pharmacybillingservice\\data\\pharmacydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1E02322-7DBF-4B1E-95DB-1F09690D1E29}|PharmacyBillingService\\PharmacyBillingService.csproj|solutionrelative:pharmacybillingservice\\data\\pharmacydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E02322-7DBF-4B1E-95DB-1F09690D1E29}|PharmacyBillingService\\PharmacyBillingService.csproj|d:\\season 4 ver 1\\monthu3p2\\pharmacybilling\\pharmacybillingservice\\models\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1E02322-7DBF-4B1E-95DB-1F09690D1E29}|PharmacyBillingService\\PharmacyBillingService.csproj|solutionrelative:pharmacybillingservice\\models\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E02322-7DBF-4B1E-95DB-1F09690D1E29}|PharmacyBillingService\\PharmacyBillingService.csproj|d:\\season 4 ver 1\\monthu3p2\\pharmacybilling\\pharmacybillingservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1E02322-7DBF-4B1E-95DB-1F09690D1E29}|PharmacyBillingService\\PharmacyBillingService.csproj|solutionrelative:pharmacybillingservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E02322-7DBF-4B1E-95DB-1F09690D1E29}|PharmacyBillingService\\PharmacyBillingService.csproj|d:\\season 4 ver 1\\monthu3p2\\pharmacybilling\\pharmacybillingservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1E02322-7DBF-4B1E-95DB-1F09690D1E29}|PharmacyBillingService\\PharmacyBillingService.csproj|solutionrelative:pharmacybillingservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\season 4 ver 1\\monthu3p2\\PharmacyBilling\\PharmacyBillingService\\Program.cs",
+              "RelativeDocumentMoniker": "PharmacyBillingService\\Program.cs",
+              "ToolTip": "D:\\season 4 ver 1\\monthu3p2\\PharmacyBilling\\PharmacyBillingService\\Program.cs",
+              "RelativeToolTip": "PharmacyBillingService\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAswDAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T03:54:47.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\season 4 ver 1\\monthu3p2\\PharmacyBilling\\PharmacyBillingService\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "PharmacyBillingService\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\season 4 ver 1\\monthu3p2\\PharmacyBilling\\PharmacyBillingService\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "PharmacyBillingService\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T03:45:25.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PharmacyDbContext.cs",
+              "DocumentMoniker": "D:\\season 4 ver 1\\monthu3p2\\PharmacyBilling\\PharmacyBillingService\\Data\\PharmacyDbContext.cs",
+              "RelativeDocumentMoniker": "PharmacyBillingService\\Data\\PharmacyDbContext.cs",
+              "ToolTip": "D:\\season 4 ver 1\\monthu3p2\\PharmacyBilling\\PharmacyBillingService\\Data\\PharmacyDbContext.cs",
+              "RelativeToolTip": "PharmacyBillingService\\Data\\PharmacyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T03:42:19.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Medicine.cs",
+              "DocumentMoniker": "D:\\season 4 ver 1\\monthu3p2\\PharmacyBilling\\PharmacyBillingService\\models\\Medicine.cs",
+              "RelativeDocumentMoniker": "PharmacyBillingService\\models\\Medicine.cs",
+              "ToolTip": "D:\\season 4 ver 1\\monthu3p2\\PharmacyBilling\\PharmacyBillingService\\models\\Medicine.cs",
+              "RelativeToolTip": "PharmacyBillingService\\models\\Medicine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T03:41:26.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\season 4 ver 1\\monthu3p2\\PharmacyBilling\\PharmacyBillingService\\models\\User.cs",
+              "RelativeDocumentMoniker": "PharmacyBillingService\\models\\User.cs",
+              "ToolTip": "D:\\season 4 ver 1\\monthu3p2\\PharmacyBilling\\PharmacyBillingService\\models\\User.cs",
+              "RelativeToolTip": "PharmacyBillingService\\models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T03:41:00.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\season 4 ver 1\\monthu3p2\\PharmacyBilling\\PharmacyBillingService\\appsettings.json",
+              "RelativeDocumentMoniker": "PharmacyBillingService\\appsettings.json",
+              "ToolTip": "D:\\season 4 ver 1\\monthu3p2\\PharmacyBilling\\PharmacyBillingService\\appsettings.json",
+              "RelativeToolTip": "PharmacyBillingService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-16T03:34:55.183Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
