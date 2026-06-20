@@ -10,6 +10,12 @@ services:
       - "1433:1433"
     volumes:
       - pharmacy_data:/var/opt/mssql
+    healthcheck:
+      test: ["CMD-SHELL", "/opt/mssql-tools18/bin/sqlcmd -S localhost -U sa -P 'Your_Strong_Password_123' -Q \"SELECT 1\" -C || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+      start_period: 15s
 
   pharmacy_api:
     image: pharmacy_api_image
@@ -21,7 +27,8 @@ services:
     ports:
       - "5000:8080"
     depends_on:
-      - pharmacy-db
+      pharmacy-db:
+        condition: service_healthy
 
 volumes:
   pharmacy_data:

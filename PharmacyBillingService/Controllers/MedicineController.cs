@@ -37,7 +37,7 @@ namespace PharmacyBillingService.Controllers
         }
 
         [HttpPost]
-        [Authorize(Roles = "Admin,Nurse")]
+        [Authorize(Roles = "Admin")]
         public IActionResult Create([FromBody] Medicine medicine)
         {
             _context.Medicines.Add(medicine);

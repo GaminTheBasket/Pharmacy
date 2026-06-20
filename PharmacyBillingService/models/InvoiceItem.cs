@@ -1,3 +1,5 @@
+using System.Text.Json.Serialization;
+
 namespace PharmacyBillingService.Models
 {
     public class InvoiceItem
@@ -8,6 +10,7 @@ namespace PharmacyBillingService.Models
         public int Quantity { get; set; }
         public decimal UnitPrice { get; set; }
 
+        [JsonIgnore]
         public Invoice? Invoice { get; set; }
         public Medicine? Medicine { get; set; }
     }

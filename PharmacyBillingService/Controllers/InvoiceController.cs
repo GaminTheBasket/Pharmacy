@@ -84,6 +84,7 @@ namespace PharmacyBillingService.Controllers
         }
 
         [HttpPost]
+        [Authorize(Roles = "Nurse")]
         public IActionResult Create([FromBody] Invoice invoice)
         {
             if (invoice.Items == null || !invoice.Items.Any())
